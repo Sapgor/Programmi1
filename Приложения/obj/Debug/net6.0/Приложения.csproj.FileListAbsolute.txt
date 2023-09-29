@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Приложения\Приложения\bin\Debug\net6.0\Приложения.exe
+C:\Users\User\source\repos\Приложения\Приложения\bin\Debug\net6.0\Приложения.deps.json
+C:\Users\User\source\repos\Приложения\Приложения\bin\Debug\net6.0\Приложения.runtimeconfig.json
+C:\Users\User\source\repos\Приложения\Приложения\bin\Debug\net6.0\Приложения.dll
+C:\Users\User\source\repos\Приложения\Приложения\bin\Debug\net6.0\Приложения.pdb
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.AssemblyInfo.cs
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.dll
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\refint\Приложения.dll
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.pdb
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\Приложения.genruntimeconfig.cache
+C:\Users\User\source\repos\Приложения\Приложения\obj\Debug\net6.0\ref\Приложения.dll
